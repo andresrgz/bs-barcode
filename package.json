@@ -1,0 +1,22 @@
+{
+  "name": "bs-barcode",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "bsb -make-world",
+    "start": "bsb -make-world -w",
+    "clean": "bsb -clean-world"
+  },
+  "keywords": [
+    "BuckleScript",
+    "JsBarcode"
+  ],
+  "author": "andresrgz",
+  "license": "MIT",
+  "devDependencies": {
+    "bs-platform": "^4.0.5"
+  },
+  "dependencies": {
+    "bs-canvas": "github:andresrgz/bs-canvas",
+    "jsbarcode": "^3.9.0"
+  }
+}
