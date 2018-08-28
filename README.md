@@ -1,19 +1,19 @@
-# bs-barcode
+# ║█║▌║█║▌│║▌║▌█║ bs-barcode ║█║▌║█║▌│║▌║▌█║
 
 BuckleScript bindings for [JsBarcode](https://github.com/lindell/JsBarcode).
 
-# Build
+# :hammer: Build
 
 ```
 npm run build
 ```
 
-# Build + Watch
+# :eyeglasses: Build + Watch
 
 ```
 npm run start
 ```
 
-# Editor
+# :pencil2: Editor
 
 If you use `vscode`, Press `Windows + Shift + B` it will build automatically
