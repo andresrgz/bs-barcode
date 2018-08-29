@@ -2,6 +2,11 @@
 
 BuckleScript bindings for [JsBarcode](https://github.com/lindell/JsBarcode).
 
+# Installation
+```
+  npm install bs-canvas bs-barcode
+```
+
 # :hammer: Build
 
 ```
